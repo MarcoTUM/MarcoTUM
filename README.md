@@ -9,6 +9,7 @@ I studied computer science at the Technical University of Munich from 2015 to 20
 <div display="flex">
   <img src="https://img.shields.io/badge/Unity-0.svg?style=for-the-badge&logo=unity&logoColor=white&color=black&labelColor=444444" alt="Unity">
   <img src="https://img.shields.io/badge/C%23-0.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=black&labelColor=239120" alt="C#">
+  <img src="https://img.shields.io/badge/Godot-0.svg?style=for-the-badge&logo=godotengine&logoColor=white&color=black&labelColor=478bbf" alt="Godot">
 </div>
 
 <br/>
@@ -75,12 +76,4 @@ I studied computer science at the Technical University of Munich from 2015 to 20
   <img src="https://img.shields.io/badge/PyCharm-0?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&color=black&labelColor=3ddc84" alt="AndroidStudio">
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white&color=black&labelColor=4b3263" alt="ESLint">
-</div>
-
-<br/>
-
-## I’m currently learning
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/NextJs-0.svg?style=for-the-badge&logo=next.js&logoColor=black&color=black&labelColor=ffffff" alt="NextJs">
 </div>
