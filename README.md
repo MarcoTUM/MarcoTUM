@@ -8,7 +8,7 @@ I studied computer science at the Technical University of Munich from 2015 to 20
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Unity-0.svg?style=for-the-badge&logo=unity&logoColor=white&color=black&labelColor=444444" alt="Unity">
-  <img src="https://img.shields.io/badge/C%23-0.svg?style=for-the-badge&logo=c-sharp&logoColor=white&color=black&labelColor=239120" alt="C#">
+  <img src="https://img.shields.io/badge/C%23-0.svg?style=for-the-badge&logo=csharp&logoColor=white&color=black&labelColor=239120" alt="C#">
   <img src="https://img.shields.io/badge/Godot-0.svg?style=for-the-badge&logo=godotengine&logoColor=white&color=black&labelColor=478bbf" alt="Godot">
 </div>
 
