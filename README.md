@@ -8,7 +8,7 @@ I studied computer science at the Technical University of Munich from 2015 to 20
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Unity-0.svg?style=for-the-badge&logo=unity&logoColor=white&color=black&labelColor=444444" alt="Unity">
-  <img src="https://img.shields.io/badge/C%23-0.svg?style=for-the-badge&logo=csharp&logoColor=white&color=black&labelColor=239120" alt="C#">
+  <img src="https://img.shields.io/badge/C%23-0.svg?style=for-the-badge&logo=sharp&logoColor=white&color=black&labelColor=239120" alt="C#">
   <img src="https://img.shields.io/badge/Godot-0.svg?style=for-the-badge&logo=godotengine&logoColor=white&color=black&labelColor=478bbf" alt="Godot">
 </div>
 
@@ -17,33 +17,34 @@ I studied computer science at the Technical University of Munich from 2015 to 20
 ## Frontend Web Development
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/HTML5-0.svg?style=for-the-badge&logo=html5&logoColor=white&color=black&labelColor=e34f26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-0.svg?style=for-the-badge&logo=css3&logoColor=white&color=black&labelColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/SCSS-0.svg?style=for-the-badge&logo=sass&logoColor=white&color=black&labelColor=hotpink" alt="SCSS">
-  <img src="https://img.shields.io/badge/Javascript-0.svg?style=for-the-badge&logo=javascript&logoColor=white&color=black&labelColor=F7DF1E" alt="Javascript">
-  <img src="https://img.shields.io/badge/Typescript-0.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black&labelColor=007ACC" alt="Typescript">
   <img src="https://img.shields.io/badge/React-0.svg?style=for-the-badge&logo=react&logoColor=white&color=black&labelColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Typescript-0.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black&labelColor=007ACC" alt="Typescript">
   <img src="https://img.shields.io/badge/Material UI-0.svg?style=for-the-badge&logo=mui&logoColor=white&color=black&labelColor=0081CB" alt="MUI">
   <img src="https://img.shields.io/badge/i18next-0.svg?style=for-the-badge&logo=i18next&logoColor=white&color=black&labelColor=26A69A" alt="i18next">
+  <img src="https://img.shields.io/badge/SCSS-0.svg?style=for-the-badge&logo=sass&logoColor=white&color=black&labelColor=hotpink" alt="SCSS">
+  <img src="https://img.shields.io/badge/HTML5-0.svg?style=for-the-badge&logo=html5&logoColor=white&color=black&labelColor=e34f26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0.svg?style=for-the-badge&logo=css3&logoColor=white&color=black&labelColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/Javascript-0.svg?style=for-the-badge&logo=javascript&logoColor=white&color=black&labelColor=F7DF1E" alt="Javascript">
 </div>
 
 <br/>
 
-## Backend Web Development
+## Fullstack Web Development
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/npm-0.svg?style=for-the-badge&logo=npm&logoColor=white&color=black&labelColor=444444" alt="npm">
+  <img src="https://img.shields.io/badge/NextJs-0.svg?style=for-the-badge&logo=next.js&logoColor=black&color=black&labelColor=ffffff" alt="NextJs">
   <img src="https://img.shields.io/badge/NodeJs-0.svg?style=for-the-badge&logo=node.js&logoColor=white&color=black&labelColor=6DA55F" alt="NodeJs">
   <img src="https://img.shields.io/badge/Express-0.svg?style=for-the-badge&logo=express&logoColor=white&color=black&labelColor=61DAFB" alt="Express">
-  <img src="https://img.shields.io/badge/NextJs-0.svg?style=for-the-badge&logo=next.js&logoColor=black&color=black&labelColor=ffffff" alt="NextJs">
   <img src="https://img.shields.io/badge/Insomnia-0.svg?style=for-the-badge&logo=insomnia&logoColor=white&color=black&labelColor=4000BF" alt="Insomnia">
 </div>
 
 <br/>
 
-## Databases
+## Databases & ORM
 
 <div display="flex">
+  <img src="https://img.shields.io/badge/Prisma-0.svg?style=for-the-badge&logo=prisma&logoColor=white&color=black&labelColor=2D3748" alt="Prisma">
+  <img src="https://img.shields.io/badge/PostgreSQL-0.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=black&labelColor=4169E1" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-0.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=black&labelColor=47A248" alt="MongoDB">
 </div>
 
