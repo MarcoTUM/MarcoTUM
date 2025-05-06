@@ -12,8 +12,9 @@ I'm currently learning fullstack-web development for a reseach project at the ne
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Vue-0.svg?style=for-the-badge&logo=vuedotjs&logoColor=white&color=black&labelColor=4FC08D" alt="Vue">
-  <img src="https://img.shields.io/badge/PHP 8-0.svg?style=for-the-badge&logo=php&logoColor=white&color=black&labelColor=777BB4" alt="PHP 8">
-  <img src="https://img.shields.io/badge/Laravel-0.svg?style=for-the-badge&logo=laravel&logoColor=white&color=black&labelColor=FF2D20" alt="Laravel">
+  <img src="https://img.shields.io/badge/ASP.NET-0.svg?style=for-the-badge&logo=dotnet&logoColor=white&color=black&labelColor=512BD4" alt="ASP.NET">
+  <!-- <img src="https://img.shields.io/badge/PHP 8-0.svg?style=for-the-badge&logo=php&logoColor=white&color=black&labelColor=777BB4" alt="PHP 8"> -->
+  <!-- <img src="https://img.shields.io/badge/Laravel-0.svg?style=for-the-badge&logo=laravel&logoColor=white&color=black&labelColor=FF2D20" alt="Laravel"> -->
 </div>
 
 <br/>
